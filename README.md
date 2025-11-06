@@ -54,12 +54,15 @@ It saves hours of manual work, promotes active learning, and bridges the gap bet
 ## 🧰 Technology Stack
 
 * **Frontend:** Next.js (React, TypeScript)
-* **Backend:** Node.js, Express.js
+* **Backend:** Node.js
 * **Database:** PostgreSQL with Prisma ORM
+* **Database Storage:** Supabase
+* **File Storage:** UploadThing
 * **Authentication:** NextAuth.js
-* **AI Integration:** OpenAI API (or similar LLMs)
+* **Cache Management:** Tanstack Query
+* **AI Integration:** Google Gemini API
 * **Styling:** Tailwind CSS
-* **Deployment:** Vercel / Docker
+* **Deployment:** Vercel
 
 ---
 
